@@ -1,6 +1,6 @@
 # Импортируем необходимые библиотеки
 import streamlit as st
-import SpeechRecognition as sr
+import speechrecognition as sr
 
     
 
